@@ -270,7 +270,7 @@ class: inverse
 
 - Health is either a direct aim or goal (specific interventions) or an indirect or unstated objective (sensitive interventions)
 
-- Coverage and the various factors that contribute or impedge its attainment are critical factors that are more often than not implicitly assumed to be high
+- Coverage and the various factors that contribute or impede its attainment are critical factors that are more often than not implicitly assumed to be high
 
 - Measurement of impact (i.e., effects of development interventions on health outcomes) would require more nuanced approaches that are able to account for complexity of the network of factors and interactions that contribute or impede success
 
