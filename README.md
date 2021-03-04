@@ -1,4 +1,10 @@
 # Development Interventions and Health
+
+<!--- badges start --->
+[![](https://img.shields.io/badge/version-v0.1.0.2021-orange)](https://github.com/ernestguevarra/devHealth/releases/tag/v0.1.0.2021)
+[![](https://img.shields.io/badge/license-GPLv3-blue)](https://github.com/ernestguevarra/devHealth/blob/master/LICENSE.md)
+[![DOI](https://zenodo.org/badge/173046460.svg)](https://zenodo.org/badge/latestdoi/173046460)
+<!--- badges end --->
  
 This session will provide an introduction to the various types of development interventions and discuss the implications they have for health using 3 empirical case studies:
 
