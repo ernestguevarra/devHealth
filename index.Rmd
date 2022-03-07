@@ -2,7 +2,7 @@
 title: "Development and Health"
 subtitle: "Concepts and Case Studies"
 author: "Ernest Guevarra"
-date: "4 March 2021" #`r Sys.Date()`
+date: "8 March 2022" #`r Sys.Date()`
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -22,19 +22,20 @@ if(!require(fontawesome)) remotes::install_github("rstudio/fontawesome")
 
 ```{r xaringan-themer, include = FALSE}
 library(xaringanthemer)
-mono_light(
+style_mono_light(
   base_color = "#002147",
   title_slide_background_image = "",
   title_slide_background_size = "cover",
   header_font_google = google_font("Fira Sans"),
   text_font_google   = google_font("Fira Sans Condensed"),
+  code_font_google   = google_font("Fira Mono"),
   text_font_size = "1.2em",
   link_color = "#214700",
   header_h1_font_size = "50px",
   header_h2_font_size = "40px",
   header_h3_font_size = "30px",
-  code_font_google   = google_font("Fira Mono"),
-  text_slide_number_font_size = "0.5em"
+  text_slide_number_font_size = "0.5em",
+  footnote_font_size = "0.5em"
 )
 ```
 
@@ -212,7 +213,7 @@ class: inverse
 
 ---
 
-background-image: url(https://www.alimentarium.org/en/system/files/styles/full_wide/private/thumbnails/image/©Giorgio-Pesce-Atelier-Poisson_cover_food_fortification_01_0.jpg?itok=Ym59xss2)
+background-image: url(https://www.alimentarium.org/sites/default/files/media/image/2017-03/Giorgio-Pesce-Atelier-Poisson_cover_food_fortification_01_0_0.jpg)
 background-size: contain
 class: top
 
