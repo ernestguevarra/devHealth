@@ -1,7 +1,7 @@
 # Development Interventions and Health
 
 <!--- badges start --->
-[![](https://img.shields.io/badge/version-v0.1.0.2021-orange)](https://github.com/ernestguevarra/devHealth/releases/tag/v0.1.0.2021)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ernestguevarra/coverageCMAM)
 [![](https://img.shields.io/badge/license-GPLv3-blue)](https://github.com/ernestguevarra/devHealth/blob/master/LICENSE.md)
 [![DOI](https://zenodo.org/badge/173046460.svg)](https://zenodo.org/badge/latestdoi/173046460)
 <!--- badges end --->
