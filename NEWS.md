@@ -1,3 +1,7 @@
+## Development Interventions and Health v0.1.0.2022
+
+This version of the slide deck was presented on 8 March 2022 as a lecture to the MSc in International Health and Tropical Medicine, University of Oxford
+
 ## Development Interventions and Health v0.1.0.2021
 
 This version of the slide deck was presented on 4 March 2021 as a lecture to the MSc in International Health and Tropical Medicine, University of Oxford
