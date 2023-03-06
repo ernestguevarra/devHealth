@@ -2,7 +2,7 @@
 
 <!--- badges start --->
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ernestguevarra/devHealth)
-[![](https://img.shields.io/badge/license-GPLv3-blue)](https://github.com/ernestguevarra/devHealth/blob/master/LICENSE.md)
+[![](https://img.shields.io/badge/license-GPLv3-blue)](https://github.com/ernestguevarra/devHealth/blob/main/LICENSE.md)
 [![DOI](https://zenodo.org/badge/173046460.svg)](https://zenodo.org/badge/latestdoi/173046460)
 <!--- badges end --->
  
