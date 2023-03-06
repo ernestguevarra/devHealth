@@ -2,7 +2,7 @@
 title: "Development and Health"
 subtitle: "Concepts and Case Studies"
 author: "Ernest Guevarra"
-date: "8 March 2022" #`r Sys.Date()`
+date: "7 March 2023" #`r Sys.Date()`
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -80,7 +80,7 @@ class: inverse, center, middle
     
 - $\text{Developed} ~ = ~ \text{Wealthy?}$; $\text{Underdeveloped} ~ = ~ \text{Poor?}$
 
-    - Measures of poverty - e.g., income, MPI
+    - Measures of poverty - e.g., income, HDI, MPI
 
     
 - Well-being
@@ -116,6 +116,8 @@ class: inverse, center, middle
 
 ---
 
+background-color: #ffffff
+
 # NICE conceptual framework for public health
 
 .center[![](https://ars.els-cdn.com/content/image/1-s2.0-S0033350608002795-gr1.jpg)]
@@ -131,6 +133,8 @@ class: inverse, center, middle
 --->
 
 ---
+
+background-color: #ffffff
 
 # Conceptual pathways between agriculture and nutrition
 
@@ -154,7 +158,9 @@ class: inverse
 
 # PSNP Ethiopia - overview
 
-- Established in 2005
+- Established in 2005; Currently is on its fifth phase of implementation
+
+- Targeted between 7-8 million rural Ethiopians
 
 - Aimed at enabling the rural poor facing chronic food insecurity to resist shocks, create assets and become food self-sufficient
 
@@ -167,21 +173,24 @@ class: inverse
     - Encourage households to engage in production and investment; and
     
     - Promote market development by increasing household purchasing power.
+    
 ---
 
 # PSNP Ethiopia - mechanics
 
-- Intervention is a combination of cash and food transfers based on season and need
-
-- Food given primarily in the lean season between June and August
+- Intervention is a combination of cash and food transfers based on season and need. Food given primarily in the lean season between June and August
 
 - Vulnerable households receive six months of assistance annualy to protect them from acute food insecurity
 
-- Transfers are conditional; able-bodied members of the beneficiary households must participate in productive activities that will build more resilient livelihoods such as rehabilitating land and water resources and developing community infrastructure, including rural road rehabilitation and building schools and clinics
+- Transfers are predominantly conditional (85% of beneficiaries). Cash transfers provided after participation in productive activities such as rehabilitating land and water resources and developing community infrastructure, including rural road rehabilitation and building schools and clinics
+
+- Unconditional direct cash transfers (about 15% of beneficiaries) for vulnerable households with limited labour capacity
+
+- Recently (fourth round), unconditional direct cash transfers to households with pregnant women and/or with children under 2 years old
 
 ---
 
-# PSNP Ethiopia - preliminary impact results
+# PSNP Ethiopia - results of the first 2 phases
 
 - Nutrition
 
@@ -210,6 +219,26 @@ class: inverse
     - Beneficiaries expect 1200 Birr a month but some receive much less than this
     
 - Limited productive opportunities on top of cash transfers
+
+---
+
+# PSNP Ethiopia - impact after four rounds
+
+- No difference in household food security status, and in child diet diversity score
+
+- But with increase in child meal frequency
+
+- No effect on BMI z-score, stunting, underweight
+
+---
+
+# PSNP Ethiopia - reasons for impact results
+
+- Social protection programmes in the form of cash transfers alone is not enough to reverse poor nutritional outcomes
+
+- Nutrition-specific interventions will likely need to be bolstered/strengthened particularly with regard to **coverage** to potentiate the contribution of cash transfers
+
+- Nutrition-sensitive programmes that impact on food systems will likely need to be given some attention as increased food consumption will require appropriate level of food quality to enable improved nutrition outcomes
 
 ---
 
