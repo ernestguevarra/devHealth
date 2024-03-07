@@ -2,7 +2,7 @@
 title: "Development and Health"
 subtitle: "Concepts and Case Studies"
 author: "Ernest Guevarra"
-date: "7 March 2023" #`r Sys.Date()`
+date: "7 March 2024" #`r Sys.Date()`
 output:
   xaringan::moon_reader:
     lib_dir: libs
