@@ -2,7 +2,7 @@
 title: "Development and Health"
 subtitle: "Concepts and Case Studies"
 author: "Ernest Guevarra"
-date: "7 March 2024" #`r Sys.Date()`
+date: "27 February 2025" #`r Sys.Date()`
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -38,6 +38,14 @@ style_mono_light(
   footnote_font_size = "0.5em"
 )
 ```
+
+class: inverse, center, middle
+
+# Tayo na sa talipapa
+
+# Let's go to the market
+
+---
 
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Street_Child%2C_Srimangal_Railway_Station.jpg/1024px-Street_Child%2C_Srimangal_Railway_Station.jpg)
 background-size: cover
@@ -124,13 +132,15 @@ background-color: #ffffff
 
 ---
 
+background-color: #FFFFFF
+
 # UNICEF conceptual framework of undernutrition
 
-.center[![](https://maan.ifoam.bio/download/attachments/7963205/Grafik_Malnutrition.jpg?version=1&modificationDate=1458750644000&api=v2)]
+```{r unicef-framework, echo = FALSE, out.width = "78%", fig.align = "center"}
+knitr::include_graphics("images/unicef_framework.jpeg")
+```
 
-<!---
-.center[![](https://openi.nlm.nih.gov/imgs/512/240/4428483/PMC4428483_fnut-01-00013-g001.png?keywords=undernutrition)]
---->
+<!-- .center[![](images/unicef_framework.jpeg)] -->
 
 ---
 
