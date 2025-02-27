@@ -41,9 +41,9 @@ style_mono_light(
 
 class: inverse, center, middle
 
-# Tayo na sa talipapa
+# Introductory Game
 
-# Let's go to the market
+### Tayo na sa talipapa / Let's go to the market
 
 ---
 
